@@ -1,34 +1,29 @@
-<h1 align="center">Portifólio - Laertes</h1>
-
-![Imagem do projeto finalizado](assets/images/projects/portifolio.png)
-
----
-
-## 💻 Sobre
-
-Projeto é feito com o intuito de mostrar as minhas habilidades com o front-end!
-
-## 🤯 O site é composto por:
-
-- **Home:** Primeira apresentação;
-- **About Me:** Falo sobre as minhas habilidades com o front-end;
-- **Projects:** Alguns dos meus projetos;
-  
-## 🧠 Tecnologias utilizadas:
+<  ## OIII! EU SOU SAULLO
 
 <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="34px"/>
-    <img src="https://imgs.search.brave.com/_MqSZDZZ8WP4_0pswoFcuZhUl3zblcWfMTYrznY4WxU/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy85/Lzk5L1Vub2ZmaWNp/YWxfSmF2YVNjcmlw/dF9sb2dvXzIuc3Zn.svg" height="34px"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <a href="https://beacons.ai/Saullo-Programador">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Saullo-Programador&show_icons=true&theme=neon"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saullo-Programador&hide_progress=true&theme=neon"/>
 </div>
 
-## 📚 Alguns conceitos aplicados
+## Tecnologias que eu uso no meu dia 
 
-Nesse portifolio utilizei:
-+ Router (React.js);
-+ Clean Code;
-+ Responsividade;
-+ Funcionalidades Css3;
-+ Utilização da lib JS <a href="https://scrollrevealjs.org">Scroll Reveal</a>.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Saullo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Saullo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Saullo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Saullo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Saullo-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Saullo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Saullo-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+</div>
 
----
+##
+
+<div> 
+  <a href="https://instagram.com/saullo_p1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:saullopaulodantasfelipe8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=rad" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
