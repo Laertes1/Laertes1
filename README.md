@@ -1,15 +1,15 @@
-<  ## OIII! EU SOU SAULLO
+<  ## OIII! EU SOU Laertes
 
 <div>
   <a href="https://beacons.ai/Saullo-Programador">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Saullo-Programador&show_icons=true&theme=neon"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saullo-Programador&hide_progress=true&theme=neon"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laertes1&hide_progress=true&theme=neon"/>
 </div>
 
 ## Tecnologias que eu uso no meu dia 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Saullo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Laertes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Saullo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Saullo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Saullo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
