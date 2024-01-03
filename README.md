@@ -1,5 +1,8 @@
   # Olá! Eu sou Laertes
+  #### Olá :wave: , me chamo Laertes, sou um aficionado pelo desenvolvimento web, comecei os estudos na área da programação há aproximadamente 2 anos e cada vez mais me apaixono pelo que faço.
 
+  ### Experiencia :computer:
+  #### Durante agosto e dezembro de 2023, eu realizei um estágio supervisionado na empresa Barao de Araruna, onde fui um dos responsáveis pela criação de um software web para gestão de condomínio.
 ### ⚙️ GitHub Analytics
 
 <table>
