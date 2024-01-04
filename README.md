@@ -49,12 +49,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-  
-   
-          
-          
-          
+  <img width="40" height="40" align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AjvtgRN8bmNL9LuEWcuzst00FdtzIg5zOqlne6BNXiFE78056f7PVx95kKdko-oZowc&usqp=CAU" />  
                     
 </div>
 
